@@ -16,12 +16,16 @@ Here are some technologies I work with:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+
 
 - **Frameworks & Tools:**  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
   ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge)  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
@@ -29,6 +33,9 @@ Here are some technologies I work with:
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+  ![CI/CD Pipelines](https://img.shields.io/badge/-CI/CD_Pipelines-0A84FF?logo=devops&logoColor=white&style=for-the-badge)  
+  ![Linting](https://img.shields.io/badge/-Linting-39b36b?style=for-the-badge)
+
 
 ---
 
