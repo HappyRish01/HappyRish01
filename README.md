@@ -39,6 +39,13 @@ Here are some technologies I work with:
 
 ---
 
+### 🚀 **My Projects**
+While I am actively involved in open-source development, I prefer not to showcase individual projects here.  
+Most of my work is already publicly available within the open-source community, and I find satisfaction in contributing without the need for extra exposure.  
+If you're interested in what I've been working on or would like to collaborate, feel free to reach out!
+
+---
+
 ### 🤝 **Let’s Connect**
 - [LinkedIn](https://www.linkedin.com/in/rish-kumar-487472237/)
 - [Twitter](https://twitter.com/Rish16_02)
