@@ -1,62 +1,154 @@
-# Hi there 👋 I'm Rish!
+# Hi, I'm Rish 👋
 
-**`Developer | Open Source Enthusiast | Tech Explorer`**
+### Backend & Systems Engineer | AI Software Engineer | Open Source Enthusiast
 
-Welcome to my GitHub! I'm a passionate developer who loves building impactful projects and contributing to the open-source community. I’m always eager to explore new technologies, work on interesting problems, and collaborate with other developers. Check out my repositories below to see what I've been working on!
+I'm a Computer Science undergraduate at **Hansraj College, University of Delhi**, interested in building **high-performance backend systems, distributed infrastructure, low-latency applications, and developer tools**.
 
----
+Currently working as an **AI Software Engineer at Fin-i**, where I work on portfolio systems, trading infrastructure, data pipelines, and scalable backend services.
 
-### 🛠️ **Tech Stack**
-
-Here are some technologies I work with:
-
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
-
-
-- **Frameworks & Tools:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge)  
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
-- **Cloud & DevOps:**  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-  ![CI/CD Pipelines](https://img.shields.io/badge/-CI/CD_Pipelines-0A84FF?logo=devops&logoColor=white&style=for-the-badge)  
-  ![Linting](https://img.shields.io/badge/-Linting-39b36b?style=for-the-badge)
-
+I enjoy working close to the system — concurrency, networking, databases, distributed systems, performance optimization, and infrastructure.
 
 ---
 
-### 🌱 **Currently Learning**
-- [ ] Advanced AI & Machine Learning
-- [ ] DevOps tools like Terraform and Ansible
-- [ ] Rust programming language
+## ⚡ What I'm Working On
+
+- 🏎️ **Low-Latency Systems** — matching engines, trading systems & portfolio infrastructure
+- 🗄️ **Database Internals** — MVCC, WAL, B+ Trees & query optimization
+- 🌐 **Distributed Systems** — Kafka, Kubernetes, WebSockets & WebRTC
+- 🤖 **AI Infrastructure** — RAG pipelines, vector search & AI-assisted applications
+- ☁️ **Infrastructure & DevOps** — Docker, Kubernetes, Jenkins & cloud deployments
 
 ---
 
-### 🚀 **My Projects**
-While I am actively involved in open-source development, I prefer not to showcase individual projects here.  
-Most of my work is already publicly available within the open-source community, and I find satisfaction in contributing without the need for extra exposure.  
-If you're interested in what I've been working on or would like to collaborate, feel free to reach out!
+## 🛠 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Systems & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### Networking & Real-Time Systems
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ---
 
-### 🤝 **Let’s Connect**
-- [LinkedIn](https://www.linkedin.com/in/rish-kumar-487472237/)
-- [Twitter](https://twitter.com/Rish16_02)
-- [Discord](https://discord.com/2660)
+## 🚀 Featured Work
 
+### ⚡ Concurrency-Safe Limit Order Book & Matching Engine
 
-Thank you for visiting! ⭐ Feel free to check out my work and reach out if you'd like to collaborate.
+A high-performance order matching engine designed around strict **price-time priority**.
+
+- **4.01M matched orders/sec**
+- **249.6 ns/op** single-core performance
+- O(1) best-price lookup using dual price ladders
+- Thread-safe engine operations with zero data races
+- Supports GTC, FAK, FOK, Good-for-Day and Market orders
+- Mutation-free Fill-Or-Kill prechecks
+
+---
+
+### 🗄️ Distributed Storage Engine
+
+Building a storage/database engine in **Go** featuring:
+
+- MVCC
+- Write-Ahead Logging
+- B+ Tree indexes
+- Cost-based query optimization
+
+---
+
+### ☁️ Vercel-Killer
+
+A distributed deployment platform experimenting with:
+
+- Kafka-backed job queues
+- Containerized build workers
+- Kubernetes build swarms
+- Real-time build log streaming
+
+---
+
+### 🌐 WireG
+
+Peer-to-peer file transfer system built around:
+
+- WebRTC
+- DTLS encryption
+- STUN
+- NAT traversal
+- Direct peer-to-peer communication
+
+---
+
+### 💸 Foxtrot
+
+AI-powered expense splitting infrastructure using:
+
+- Cloudflare Workers
+- Cloudflare D1
+- AI-based expense parsing
+- Atomic ledger operations
+
+---
+
+## 🏆 Highlights
+
+- 🥈 **2nd Place — Smart India Hackathon 2025 Internal Hackathon**
+- Built a **RAG system using LangChain** for ARGO oceanographic data
+- Reduced analysis workflows from **7+ days to near real-time**
+- Compressed **200+ GB of NetCDF data to ~700 MB of Parquet data**
+- Development Head at the **Department of Computer Science, Hansraj College**
+- Evaluated **35+ hackathon teams across 8 states**
+
+---
+
+## 💼 Experience
+
+### AI Software Engineer — Fin-i
+
+Working on high-performance portfolio and financial infrastructure.
+
+- Portfolio rebalancing systems
+- AI-assisted asset allocation
+- Low-latency backend services
+- PostgreSQL performance optimization
+- Data ingestion pipelines
+- Dockerized deployments
+- Trading and portfolio management infrastructure
+
+---
+
+## 🎯 Areas I'm Interested In
+
+```text
+Distributed Systems
+Database Internals
+Low-Latency Engineering
+Backend Architecture
+Financial Systems
+Networking
+Concurrency
+Cloud Infrastructure
+Open Source
